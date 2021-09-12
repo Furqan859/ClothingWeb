@@ -1,4 +1,4 @@
-
+import React from "react";
 import {Products} from "../src/Database/products";
 import CardView from "./Component/CardView";
 

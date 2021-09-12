@@ -1,6 +1,5 @@
-import Header from './Component/Header'
-import {Container, Nav, Navbar, NavDropdown} from "react-bootstrap";
-import Main from "./Main";
+
+import React from "react";
 import Routes from "./Component/Routes";
 
 const App = () =>{
